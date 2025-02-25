@@ -1,6 +1,6 @@
 # YOLOv11 Object Detection Pipeline
 
-This repository contains a Jupyter Notebook for training and evaluating a YOLOv8 object detection model on a custom dataset.
+This repository contains a Jupyter Notebook for training and evaluating a YOLOv11 object detection model on a custom dataset.
 
 ## Table of Contents
 - [YOLOv11 Object Detection Pipeline](#yolov11-object-detection-pipeline)
