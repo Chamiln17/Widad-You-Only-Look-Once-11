@@ -1,9 +1,9 @@
-# YOLOv8 Object Detection Pipeline
+# YOLOv11 Object Detection Pipeline
 
 This repository contains a Jupyter Notebook for training and evaluating a YOLOv8 object detection model on a custom dataset.
 
 ## Table of Contents
-- [YOLOv8 Object Detection Pipeline](#yolov8-object-detection-pipeline)
+- [YOLOv11 Object Detection Pipeline](#yolov11-object-detection-pipeline)
   - [Table of Contents](#table-of-contents)
   - [Overview](#overview)
   - [Dataset Processing](#dataset-processing)
@@ -15,7 +15,7 @@ This repository contains a Jupyter Notebook for training and evaluating a YOLOv8
   - [Usage](#usage)
 
 ## Overview
-This project aims to train a YOLOv8 model using a custom dataset of images and XML annotations. The pipeline includes data preprocessing, augmentation, training, and inference.
+This project aims to train a YOLOv11 model using a custom dataset of images and XML annotations. The pipeline includes data preprocessing, augmentation, training, and inference.
 
 ## Dataset Processing
 - Convert XML annotations to YOLO format.
