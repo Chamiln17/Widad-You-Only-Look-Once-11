@@ -10,7 +10,6 @@ This repository contains a Jupyter Notebook for training and evaluating a YOLOv1
   - [Model Training](#model-training)
   - [Inference and Evaluation](#inference-and-evaluation)
   - [Implementation Strategy](#implementation-strategy)
-  - [Implementation Strategy](#implementation-strategy-1)
   - [Results](#results)
   - [Usage](#usage)
 
@@ -32,8 +31,6 @@ This project aims to train a YOLOv11 model using a custom dataset of images and 
 - Perform inference using Test-Time Augmentation (TTA).
 - Evaluate model predictions and generate a submission file.
 
-## Implementation Strategy
-The following diagram outlines the strategy used to implement the pipeline:
 
 ## Implementation Strategy
 The following diagram outlines the strategy used to implement the pipeline:
