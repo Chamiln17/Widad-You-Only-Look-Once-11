@@ -1,0 +1,1 @@
+<annotation><filename>00014735_001</filename><size><width>1024</width><height>1024</height><depth>3</depth></size><object><name>nodule</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>699</xmin><ymin>689</ymin><xmax>754</xmax><ymax>737</ymax></bndbox></object></annotation>
